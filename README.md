@@ -1,0 +1,1 @@
+# Table-gan-for-synthetic-data-generation
